@@ -1,4 +1,4 @@
-# Functional Matching of Logic Subgraphs: Beyond Structural Isomorphism
+# Functional Matching of Logic Subgraphs: Beyond Structural Isomorphism (Neurips25)
 ## 1. Environment
 * **Conda environment**
     * Details can be found in `./environment.yaml`
