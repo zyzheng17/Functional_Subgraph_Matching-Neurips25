@@ -8,7 +8,7 @@ PT_DIR=./dataset/$DATASET_NAME/pm_aig
 REV_DIR=./dataset/$DATASET_NAME/pm2aig
 BDY_DIR=./dataset/$DATASET_NAME/boundary
 NUM_WORKERS=1 # set num_workers to 1 if there is a bug
-ABC_PATH=/home/zyzheng23/projects/abc/abc
+ABC_PATH=/your/abc/path
 
 # 2. generate aig from pm netlist
 python ./src/data_process/5_parse_pm_aig_verilog.py --pm_root $PM_DIR --pm_aig_root $REV_DIR --save_root $BDY_DIR;

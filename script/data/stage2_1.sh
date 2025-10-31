@@ -8,7 +8,7 @@ PT_DIR=./dataset/$DATASET_NAME/pm_aig
 REV_DIR=./dataset/$DATASET_NAME/pm2aig
 BDY_DIR=./dataset/$DATASET_NAME/boundary
 NUM_WORKERS=1 # set num_workers to 1 if there is a bug
-ABC_PATH=/home/zyzheng23/projects/abc/abc
+ABC_PATH=/your/abc/path
 
 
 mkdir -p $AIG_DIR $PM_DIR $PT_DIR $REV_DIR $BDY_DIR
