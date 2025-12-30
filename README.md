@@ -4,7 +4,7 @@
     * Details can be found in `./environment.yaml`
 * **Data Processing**
     * ABC: Instruction can be found in [berkeley-abc](https://github.com/berkeley-abc/abc);
-    * Yosys: We suggest users install yosys throught [Conda-eda](https://hdl.github.io/conda-eda/).
+    * Yosys: We suggest users install yosys through [Conda-eda](https://hdl.github.io/conda-eda/).
 
 ## 2. Data Process
 1. **Download Raw data**(.aig flile)
